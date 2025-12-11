@@ -206,7 +206,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <!-- NAVBAR -->
     <nav class="navbar navbar-dark navbar-expand-lg bg-transparent py-3">
         <div class="container">
-            <a class="navbar-brand fw-semibold fs-4">MUHAMMAD KRISNA PASHA</a>
+            <a class="navbar-brand fw-semibold fs-4" href="<?php echo base_url('Portfolio'); ?>">PORTFOLIO</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -373,9 +373,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <p class="mb-0">Email:</p>
             <h5 class="fw-semibold">mkrisnapasha@gmail.com</h5>
             <p class="mb-0 mt-3">LinkedIn:</p>
-            <a href="#" class="text-white">linkedin.com/in/krisnapasha</a>
-            <p class="mb-0 mt-3">GitHub:</p>
-            <a href="#" class="text-white">github.com/krisnapasha</a>
+            <a href="https://linkedin.com/in/krisnapasha" class="text-white">linkedin.com/in/krisnapasha</a>
+            <p class="mb-0 mt-3">Instagram:</p>
+            <a href="https://instagram.com/muhammadkrisnapasha" class="text-white">instagram.com/muhammadkrisnapasha</a>
         </div>
     </section>
 
